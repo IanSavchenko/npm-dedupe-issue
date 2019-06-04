@@ -1,0 +1,16 @@
+{
+  "name": "dedupe_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-util-firecloud": "git://github.com/tobiipro/aws-util-firecloud.git#semver:~1.5.5",
+    "lodash-firecloud": "git://github.com/tobiipro/lodash-firecloud.git#semver:~0.2.0"
+  }
+}
